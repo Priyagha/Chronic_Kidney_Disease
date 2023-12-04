@@ -11,3 +11,11 @@ Chronic Kidney Disease (CKD) is a condition in which the kidneys are damaged and
 - In the United States, diabetes and high blood pressure are the leading causes of kidney failure, accounting for 3 out of 4 new cases.
 - In 2019, treating Medicare beneficiaries with CKD cost $87.2 billion, and treating people with ESRD cost an additional $37.3 billion.
 
+## Quick Facts: CKD Snapshot
+
+- Kidney diseases are a leading cause of death in the United States.
+- Early CKD has no signs or symptoms.
+- Specific blood and urine tests are needed to check for CKD.
+- CKD tends to get worse over time.
+- CKD can be treated (the earlier treatment starts the better).
+- CKD can progress to kidney failure.
