@@ -19,3 +19,5 @@ Chronic Kidney Disease (CKD) is a condition in which the kidneys are damaged and
 - CKD tends to get worse over time.
 - CKD can be treated (the earlier treatment starts the better).
 - CKD can progress to kidney failure.
+
+_(Source: [Center for Disease Control and Prevention](https://www.cdc.gov/kidneydisease/basics.html))_
