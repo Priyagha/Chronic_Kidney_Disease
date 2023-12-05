@@ -21,3 +21,7 @@ Chronic Kidney Disease (CKD) is a condition in which the kidneys are damaged and
 - CKD can progress to kidney failure.
 
 _(Source: [Center for Disease Control and Prevention](https://www.cdc.gov/kidneydisease/basics.html))_
+
+# Project Description
+The main objective of this project is to classify the risk of patient being a CKD or not based on the health reports. The dataset was obtained from UC Irvine MAchine Learning Repository. The dataset initially had 24 features, 400 datapoints and one class.
+ 
