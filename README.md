@@ -23,5 +23,13 @@ Chronic Kidney Disease (CKD) is a condition in which the kidneys are damaged and
 _(Source: [Center for Disease Control and Prevention](https://www.cdc.gov/kidneydisease/basics.html))_
 
 # Project Description
-The main objective of this project is to classify the risk of patient being a CKD or not based on the health reports. The dataset was obtained from UC Irvine MAchine Learning Repository. The dataset initially had 24 features, 400 datapoints and one class.
- 
+
+The primary goal of this project is to develop robust machine learning models for classifying patients as either at risk or not at risk of chronic kidney disease as CKD is a serious medical condition, and early detection can significantly improve patient outcomes. Two classification algorithms, logistic regression and support vector machine (SVM), were employed to achieve accurate predictions. 
+
+## Dataset
+
+The dataset was obtained from UC Irvine Machine Learning Repository.
+
+- Dataset Size: 400 data points
+- Features: 24 variables encompassing a range of medical indicators
+- Class: Binary classification indicating the presence or absence of chronic kidney disease
