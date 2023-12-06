@@ -36,6 +36,6 @@ The dataset was obtained from UC Irvine Machine Learning Repository.
 
 ## Repository Structure
 
-kidney.csv: Contains the raw data downloaded from the data source.
-01_datasets.xlsx: Pre-processed and feature reduced data.
-Chronic_Kidney_Disease.ipynb: Jupyter notebooks detailing the entire data exploration, preprocessing, and model development process.
+- kidney.csv: Contains the raw data downloaded from the data source.
+- 01_datasets.xlsx: Pre-processed and feature reduced data.
+- Chronic_Kidney_Disease.ipynb: Jupyter notebooks detailing the entire data exploration, preprocessing, and model development process.
