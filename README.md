@@ -33,3 +33,9 @@ The dataset was obtained from UC Irvine Machine Learning Repository.
 - Dataset Size: 400 data points
 - Features: 24 variables encompassing a range of medical indicators
 - Class: Binary classification indicating the presence or absence of chronic kidney disease
+
+## Repository Structure
+
+kidney.csv: Contains the raw data downloaded from the data source.
+01_datasets.xlsx: Pre-processed and feature reduced data.
+Chronic_Kidney_Disease.ipynb: Jupyter notebooks detailing the entire data exploration, preprocessing, and model development process.
